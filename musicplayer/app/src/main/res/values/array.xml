@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="theme">
+        <item>红色</item>
+        <item>橙色</item>
+        <item>黄色</item>
+        <item>绿色</item>
+        <item>青色</item>
+        <item>模糊</item>
+        <item>彩色</item>
+        <item>透明</item>
+    </string-array>
+</resources>

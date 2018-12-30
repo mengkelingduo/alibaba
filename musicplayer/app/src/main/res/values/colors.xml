@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="hong">#FF3030</color>
+    <color name="cheng">#FF8C00</color>
+    <color name="huang">#FFD700</color>
+    <color name="lv">#7FFF00</color>
+    <color name="qing">#9AFF9A</color>
+    <color name="lan">#303F9F</color>
+    <color name="zi">#FF4081</color>
+    <color name="black">#111111</color>
+    <color name="bai"> #ffffff</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="tm"> #00000000</color>
+
+
+</resources>
